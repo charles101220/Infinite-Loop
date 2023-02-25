@@ -1,0 +1,11 @@
+public class WhileLoopInfiniteExample {
+
+	public static void main(String[] args) {
+
+		// while loop condition to true.
+		// this loop runs forever.
+		while (true) {
+			System.out.println("Running while loop");
+		}
+	}
+}
